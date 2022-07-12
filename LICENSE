@@ -1,0 +1,178 @@
+RealityRipple Software Commercial License
+
+    THIS SOFTWARE IS PROVIDED UNDER THE TERMS OF THIS LICENSE
+    ("AGREEMENT"). ANY USE OR DISTRIBUTION OF THE PROGRAM
+    CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+1. DEFINITIONS
+
+"Author" means the creator of the Program, which in this case is
+RealityRipple Software.
+
+"Program" means the Software Distributed in accordance with this
+Agreement.
+
+"Recipient" means anyone who receives the Program under this Agreement.
+
+"License Key" shall mean a series of characters designed to identify
+a legitimate Recipient who has made a commercial purchase of the Program
+Distributed under this Agreement.
+
+"Contribution" means additions to the Program from a Contributor,
+including translators or entities that submit code to the Author
+for inclusion in the Program.
+
+"Contributor" means any person or entity that provides additional
+content to the Author for the purpose of inclusion in the Program.
+Most often, a Contributor will mean a translator who provides
+lingual translations of text used within the Program's interface.
+
+"Distribute" means the acts of a) distributing or b) making available
+in any manner that enables the transfer of a copy.
+
+"Distributor" means anyone who Distributes copies of this software to
+Recipients for any purpose.
+
+"Source Code" means the form of a Program preferred for making
+modifications, including but not limited to software source code,
+documentation source, and configuration files.
+
+"Derivative Works" shall mean any work, whether in Source Code or other
+form, that is based on (or derived from) the Program and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship.
+
+"Modified Works" shall mean any work in Source Code or other form that
+results from an addition to, deletion from, or modification of the
+contents of the Program, including, for purposes of clarity any new file
+in Source Code form that contains any contents of the Program. Modified
+Works shall not include works that contain only declarations,
+interfaces, types, classes, structures, or files of the Program solely
+in each case in order to link to, bind by name, or subclass the Program
+or Modified Works thereof.
+
+2. GRANT OF RIGHTS
+
+Subject to the terms of this Agreement, the Author hereby grants
+Recipient a non-exclusive, worldwide, royalty-free copyright license to
+reproduce, publicly display, and publicly perform tasks using this
+Software. The Agreement allows the Recipient to make copies of the
+Software for use by further Recipients. However, license keys may not
+be distributed in the same manner, and may only be used on devices
+legitimately owned by Recipients with legal claim to ownership of a
+license, as provided by the Author. Source Code for the Program is
+not available to Distributors or Recipients, and is the private property
+of the Author alone. Additionally, any content provided by Contributors
+which is included in the program by the Author must be provided without
+license or implication of ownership. Ownership of any submitted material
+passes to the Author of this Program.
+
+Derivative and Modified Works as defined in Section 1 are not permitted
+in any form. These granted rights shall terminate as of the date such
+software is initially written, and any License Key provided shall be
+voided, even at the expense of a legitimate Recipient of such a License
+Key.
+
+3. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities
+with respect to end users, business partners and the like. While this
+license is intended to facilitate the commercial use of the Program,
+a Distributor who includes the Program in a commercial product
+offering should do so in a manner which does not create potential
+liability for the Author. Therefore, if a Distributor includes
+the Program in a commercial product offering, such Distributor
+("Commercial Distributor") hereby agrees to defend and indemnify the
+Author against any losses, damages and costs (collectively "Losses")
+arising from claims, lawsuits and other legal actions brought by a third
+party against the Author to the extent caused by the acts or omissions
+of such Commercial Distributor in connection with its distribution of
+the Program in a commercial product offering. The obligations in this
+section do not apply to any claims or Losses relating to any actual or
+alleged intellectual property infringement. In order to qualify, the
+Author will: a) promptly notify the Commercial Distributor in writing of
+such claim, and b) allow the Commercial Distributor to control, and
+cooperate with the Author in, the defense and any related settlement
+negotiations. The Author may participate in any such claim at its own
+expense.
+
+For example, a Distributor might include the Program in a commercial
+product offering, Package X. That Distributor is then a Commercial
+Distributor. If that Commercial Distributor then makes performance
+claims, or offers warranties related to Package X, those performance
+claims and warranties are such Commercial Distributor's responsibility
+alone. Under this section, the Commercial Distributor would have to
+defend claims against the Author related to those performance claims and
+warranties, and if a court requires any other Distributor to pay any
+damages as a result, the Commercial Distributor must pay those damages.
+
+4. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS"
+BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF
+TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. Each Recipient is solely responsible for determining the
+appropriateness of using and distributing the Program and assumes all
+risks associated with its exercise of rights under this Agreement,
+including but not limited to the risks and costs of program errors,
+compliance with applicable laws, damage to or loss of data, programs
+or equipment, and unavailability or interruption of operations.
+
+5. DISCLAIMER OF LIABILITY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, NEITHER AUTHOR, CONTRIBUTOR, NOR ANY
+DISTRIBUTOR SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING
+WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR
+DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED
+HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of the terms of this Agreement, and without further
+action by the parties hereto, such provision shall be reformed to the
+minimum extent necessary to make such provision valid and enforceable.
+
+If Recipient institutes patent litigation against any entity
+(including a cross-claim or counterclaim in a lawsuit) alleging that the
+Program itself (excluding combinations of the Program with other software
+or hardware) infringes such Recipient's patent(s), then such Recipient's
+rights granted under Section 2 shall terminate as of the date such
+litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it
+fails to comply with any of the material terms or conditions of this
+Agreement and does not cure such failure in a reasonable period of
+time after becoming aware of such noncompliance. If all Recipient's
+rights under this Agreement terminate, Recipient agrees to cease use
+and distribution of the Program as soon as reasonably practicable.
+However, Recipient's obligations under this Agreement and any licenses
+granted by Recipient relating to the Program shall continue and survive.
+
+This agreement is not designed to be copied and distributed, except to
+the entities named within this agreement. RealityRipple Software
+reserves the right to publish revisions to this Agreement. The Program
+must always be Distributed subject to the the Agreement under which it
+was received. In addition, after a new version of the Agreement is published,
+a Distributor may elect to Distribute the Program under the new version.
+
+Except as expressly stated in Section 2 above, no Contributor or
+Recipient receives any rights or licenses to the intellectual property
+of the Author under this Agreement, whether expressly, by implication,
+estoppel or otherwise. All rights in the Program not expressly granted
+under this Agreement are reserved. Nothing in this Agreement is intended
+to be enforceable by any entity that is not an Author, a Contributor, a
+Distributor, or a Recipient.
+No third-party beneficiary rights are created under this Agreement.
+
+This Agreement is governed by the laws of the State of California and
+the intellectual property laws of the United States of America. No party
+to this Agreement will bring a legal action under this Agreement more
+than one year after the cause of action arose.
