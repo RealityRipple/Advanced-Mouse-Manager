@@ -1,10 +1,10 @@
 # ![](https://realityripple.com/Software/Applications/Advanced-Mouse-Manager/favicon-32x32.png) Advanced Mouse Manager
-Map keyboard commands to fourth and fifth buttons on a 4-button, 5-button, or Tilt-wheel mouse.
+Map keyboard commands to third, fourth, and fifth buttons on a three to five button or Tilt-wheel mouse.
 
-#### Version 2.4
+#### Version 3.0
 > Author: Andrew Sachen  
 > Created: August 18, 2015  
-> Updated: March 3, 2022  
+> Updated: February 15, 2024  
 
 Language: Visual Basic.NET  
 Compiler: Visual Studio 2010  
